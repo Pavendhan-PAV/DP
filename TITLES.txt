@@ -1,0 +1,25 @@
+1> Coin Exchange with unlimited supply of coins: 
+	greedy: coinexchange_g1
+	dp	  : coinexchange
+	
+2> Coin Exchange with limited supply of coins:  
+	greedy: coinexchange_g2
+	dp	  : coinexchange2
+	
+3> Maximum Independent set Problem:
+	greedy: LISP
+	dp	  : LISP_g
+	
+4> Matrix Chaain Multiplication order:
+	greedy: MCM_g1	MCM_g2
+	dp	  : MCM
+	
+5> All Pairs shortest Path Problem:
+	greedy: APSP_g1
+	dp	  : APSP
+	
+6> Knapsack Problem:
+	dp    : KP
+
+7> Bellman Ford Prbolem:
+	dp    : BFP
